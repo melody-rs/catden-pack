@@ -1,0 +1,13 @@
+name = "Catden Pack"
+author = "melody_rs"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4a54f75aaa3d9ec41248b0dd630cee9b470731af1d882f7934caaf9a95dfba51"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"
