@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
+hash = "b24899fa80266f775c2a5ad945f01fced39a3d747ac633cdd20f52cb9c921aac"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "857f0d685e91d8bf235b1773a5a3308c8821e550e0525f2af696a146bc656ad9"
+hash = "cb80c39357e4cff35667ad5e1d12452c60f4ae42d7c585d2ca53689ea8246558"
 metafile = true
 
 [[files]]
@@ -157,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "4e8767147d197f0cdfe9e3f35b2ffa792a6cb45ba0de7146b91320bc44e59416"
+hash = "14c6162a4fdd63a6cf70a60f3460f6d5ca07662c43e533ab974285cd9ab67703"
 metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "620dd384163fe3464b093173b0536e8c5ce580f71f67262f68e97e5abf78df91"
+hash = "2e3297ba3aef725cd86733ec87d973fe595da151b7d2e31b6ff6f24c142f0f9e"
 metafile = true
 
 [[files]]
